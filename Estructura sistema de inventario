@@ -1,0 +1,12 @@
+/sistema-inventario-go
+├── /cmd/             # main.go (punto de entrada)
+├── /pkg/
+│   ├── /models/      # Estructuras GORM: Producto, Movimiento, Usuario, Proveedor
+│   ├── /routes/      # Configuración de rutas con Gin
+│   ├── /services/    # Lógica de negocio (stock, auth, reportes)
+├── /handlers/    # Controladores de las rutas
+├── /docs/            # Diagramas UML, documentación técnica
+├── /scripts/         # Migraciones, inicialización
+├── go.mod            # Dependencias
+├── .gitignore        # Ignorar /bin, /vendor, .env
+├── README.md         # Guía de instalación y uso
