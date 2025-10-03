@@ -37,5 +37,3 @@ Está diseñado para una tienda de guitarras eléctricas, con el objetivo de opt
 - **Seguridad:** JWT + bcrypt  
 - **Gestión de entorno:** godotenv  
 
-
-## 📂 Estructura del Repositorio
