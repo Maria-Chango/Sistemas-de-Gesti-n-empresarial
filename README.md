@@ -33,7 +33,7 @@ Está diseñado para una tienda de guitarras eléctricas, con el objetivo de opt
 - **Lenguaje:** Go (Golang)  
 - **Framework API:** Gin Gonic  
 - **ORM:** GORM  
-- **Base de Datos:** MySQL (o PostgreSQL)  
+- **Base de Datos:** MySQL 
 - **Seguridad:** JWT + bcrypt  
 - **Gestión de entorno:** godotenv  
 
