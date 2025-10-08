@@ -5,7 +5,6 @@
 │   ├── /routes/      # Configuración de rutas con Gin
 │   ├── /services/    # Lógica de negocio (stock, auth, reportes)
 ├── /handlers/    # Controladores de las rutas
-├── /docs/            # Diagramas UML, documentación técnica
 ├── /scripts/         # Migraciones, inicialización
 ├── go.mod            # Dependencias
 ├── .gitignore        # Ignorar /bin, /vendor, .env
